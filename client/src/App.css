@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.App {
+  max-width: 1920px;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin: auto auto;
+}
